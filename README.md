@@ -1,12 +1,3 @@
-<h2 align="left">Hola! Soy Roberto Oyarzun, hechicero de memes nivel 92 e Ingeniero en informatica</h2>
-
-###
-
-<img align="right" height="150" src="https://64.media.tumblr.com/e642b66f8548fa1485621bd82d3eacc9/df8c8427627025f7-72/s640x960/af7dc108c6fd722e684f767aa7ad6b9f72f9d9c9.gif"  />
-
-###
-
-<img src="https://media4.giphy.com/media/XreQmk7ETCak0/giphy.gif?cid=6c09b952ebu0qfej9ek6kpt59dhmujcy3vpte547v1wjcup1&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 ###
 <div align="left">
@@ -27,8 +18,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="30" alt="codeigniter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="30" alt="laravel logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="30" alt="tomcat logo"  />
   <img width="12" />
